@@ -1,0 +1,7 @@
+.bg-red {
+	background-color: red;
+}
+.carousel-item img {
+	height: 500px;
+	object-fit: cover;
+}
